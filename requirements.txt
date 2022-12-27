@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+matplotlib
+jinja2
+pandas
+python-multipart
+scikit-learn
