@@ -33,5 +33,5 @@ This app takes the parameters of a person including age, sex, BMI, number of chi
 
 - Link for notebook:  [Insurance cost prediction](https://github.com/DanielleOriane/Machine_Learning_project/blob/main/insurance_cost_prediction.ipynb)
 
-- This project was given the form of an website built on FastAPI (See [app.py](https://github.com/DanielleOriane/Machine_Learning_project/blob/main/app.py) file) where the trained model has been used to perform the predictions.
+- This project was given the form of an website built on FastAPI (See [app.py](https://github.com/DanielleOriane/Machine_Learning_project/blob/main/app.py) file) where the best trained model has been used to perform the predictions.
 
